@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-
+    'drf_yasg',
     # Local
     'blog',
     'api.apps.ApiConfig',
